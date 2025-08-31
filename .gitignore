@@ -1,0 +1,6 @@
+**/__pycache__/
+
+# Specific to this project
+data/postgres_data/
+
+ignore
